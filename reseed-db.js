@@ -7,12 +7,12 @@ const sample = _.sample;
 
 const dogAmount = 20;
 const images = [
-  "/src/assets/blue-heeler.png",
-  "/src/assets/chihuahua.avif",
-  "/src/assets/boxer.png",
-  "/src/assets/corgi.png",
-  "/src/assets/cowardly.png",
-  "/src/assets/dalmation.png",
+  "assets/blue-heeler.png",
+  "assets/chihuahua.avif",
+  "assets/boxer.png",
+  "assets/corgi.png",
+  "assets/cowardly.png",
+  "assets/dalmation.png",
 ];
 const db = {
   dogs: range(dogAmount).map((_, id) => ({

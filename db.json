@@ -1,129 +1,143 @@
 {
   "dogs": [
     {
-      "name": "Jonatan",
-      "image": "/src/assets/boxer.png",
-      "description": "Shoes after Dollar Marketing female generating Diesel",
+      "name": "Camilla",
+      "image": "assets/corgi.png",
+      "description": "copying Automotive Volvo Designer VGA Southeast aside Engineer",
       "isFavorite": true,
       "id": 0
     },
     {
-      "name": "Anthony",
-      "image": "/src/assets/cowardly.png",
-      "description": "plum Savings female Ghana programming solutions miniaturise",
+      "name": "Bryce",
+      "image": "assets/cowardly.png",
+      "description": "GB farad counterbalance Optimized Seaborgium Avon expedite bluetooth",
       "isFavorite": true,
       "id": 1
     },
     {
-      "name": "Ana",
-      "image": "/src/assets/boxer.png",
-      "description": "Analyst function withdrawal United while",
+      "name": "Ashlee",
+      "image": "assets/cowardly.png",
+      "description": "budgetary Savings Steel while tertiary system queasily",
+      "isFavorite": false,
+      "id": 2
+    },
+    {
+      "name": "Kaden",
+      "image": "assets/dalmation.png",
+      "description": "Security exhilarate Electric EXE Security reintermediate phew",
+      "isFavorite": false,
+      "id": 3
+    },
+    {
+      "name": "Murray",
+      "image": "assets/boxer.png",
+      "description": "Southeast Minivan Country withdrawal intensely yellow North",
       "isFavorite": false,
       "id": 4
     },
     {
-      "name": "Alfred",
-      "image": "/src/assets/cowardly.png",
-      "description": "Northwest DRAM henry applications South",
+      "name": "Issac",
+      "image": "assets/boxer.png",
+      "description": "Fiat Van green National Shirt",
       "isFavorite": false,
       "id": 5
     },
     {
-      "name": "Violette",
-      "image": "/src/assets/boxer.png",
-      "description": "embrace Web Southwest perspiciatis though",
+      "name": "Adella",
+      "image": "assets/dalmation.png",
+      "description": "joyfully Books female invoice lumen",
       "isFavorite": true,
       "id": 6
     },
     {
-      "name": "Kenton",
-      "image": "/src/assets/cowardly.png",
-      "description": "Bedfordshire Human tempora Managed Electronic Directives Nissan expedite",
-      "isFavorite": true,
+      "name": "Paolo",
+      "image": "assets/corgi.png",
+      "description": "connecting Southeast aboard Interactions Corporate",
+      "isFavorite": false,
       "id": 7
     },
     {
-      "name": "Asa",
-      "image": "/src/assets/dalmation.png",
-      "description": "Minivan Neither Road Movies radian",
-      "isFavorite": false,
+      "name": "Edward",
+      "image": "assets/boxer.png",
+      "description": "Electric Home Account networks Electric Bulgaria indigo Southwest",
+      "isFavorite": true,
       "id": 8
     },
     {
-      "name": "Nicolas",
-      "image": "/src/assets/chihuahua.avif",
-      "description": "an Savings brink transmit card",
-      "isFavorite": false,
+      "name": "Joaquin",
+      "image": "assets/boxer.png",
+      "description": "Dalasi Latin Functionality grey Liaison connecting Flat Games",
+      "isFavorite": true,
       "id": 9
     },
     {
-      "name": "Elton",
-      "image": "/src/assets/blue-heeler.png",
-      "description": "Nihonium Electronic Nissan Metal because Computer white",
+      "name": "Dolores",
+      "image": "assets/chihuahua.avif",
+      "description": "Money Chief Rap Hip forceful",
       "isFavorite": false,
       "id": 10
     },
     {
-      "name": "Dewayne",
-      "image": "/src/assets/dalmation.png",
-      "description": "Security override firewall Southeast apropos Usability orchid barrel",
-      "isFavorite": false,
+      "name": "Kellen",
+      "image": "assets/corgi.png",
+      "description": "Account wobbly azure violet Refined Administrator Wooden",
+      "isFavorite": true,
       "id": 11
     },
     {
-      "name": "Art",
-      "image": "/src/assets/blue-heeler.png",
-      "description": "Global ha Genderflux payment Metal pixel Money",
-      "isFavorite": true,
+      "name": "Brooks",
+      "image": "assets/blue-heeler.png",
+      "description": "Computer decent Missouri Gasoline Bicycle Branding male",
+      "isFavorite": false,
       "id": 12
     },
     {
-      "name": "Sebastian",
-      "image": "/src/assets/boxer.png",
-      "description": "Associate Gasoline Savings Hybrid Developer",
+      "name": "Lilyan",
+      "image": "assets/blue-heeler.png",
+      "description": "burnish Soap Bicycle Producer Kids M2F Sausages bayonet",
       "isFavorite": true,
       "id": 13
     },
     {
-      "name": "Lambert",
-      "image": "/src/assets/chihuahua.avif",
-      "description": "drive reek Marvin compress executive Coordinator Track bluetooth",
-      "isFavorite": false,
+      "name": "Malinda",
+      "image": "assets/dalmation.png",
+      "description": "up Hybrid how Tools Baby",
+      "isFavorite": true,
       "id": 14
     },
     {
-      "name": "Kris",
-      "image": "/src/assets/blue-heeler.png",
-      "description": "Beryllium Chevrolet partnerships focus Southeast Poland salmon",
+      "name": "Fernando",
+      "image": "assets/chihuahua.avif",
+      "description": "loftily solution paradigms exactly for transact Granite powerless",
       "isFavorite": true,
       "id": 15
     },
     {
-      "name": "Trudie",
-      "image": "/src/assets/boxer.png",
-      "description": "connecting blue National Movies Interactions ack Tandem Shirt",
-      "isFavorite": false,
+      "name": "Shanna",
+      "image": "assets/boxer.png",
+      "description": "Barrows blue Tasty Market application triumphantly alarm reintermediate",
+      "isFavorite": true,
       "id": 16
     },
     {
-      "name": "Meaghan",
-      "image": "/src/assets/dalmation.png",
-      "description": "lux Manager North applications Rufiyaa",
-      "isFavorite": false,
+      "name": "Aliya",
+      "image": "assets/chihuahua.avif",
+      "description": "Organized Automotive Granite Ergonomic Hybrid Product CSS South",
+      "isFavorite": true,
       "id": 17
     },
     {
-      "name": "Vallie",
-      "image": "/src/assets/chihuahua.avif",
-      "description": "Lead synergistic noisy operating Passenger female Salad Rubber",
+      "name": "Oma",
+      "image": "assets/cowardly.png",
+      "description": "mindshare Direct Jazz annual partnerships",
       "isFavorite": true,
       "id": 18
     },
     {
-      "name": "Newton",
-      "image": "/src/assets/blue-heeler.png",
-      "description": "Planner maxime invoice ROI granular ouch Franc",
-      "isFavorite": true,
+      "name": "Quinten",
+      "image": "assets/corgi.png",
+      "description": "Bradtke Poland Accounts nihil Porsche coulomb Road",
+      "isFavorite": false,
       "id": 19
     }
   ]
